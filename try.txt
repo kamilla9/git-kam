@@ -1,2 +1,0 @@
-print("welcome!");
-print(" how are u doing?")
