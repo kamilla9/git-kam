@@ -1,0 +1,2 @@
+print("hi world!")
+print("скоро буду пистаь код на js ")
